@@ -1,0 +1,53 @@
+----------New Patch v5.1----------
+-add new sub petrol station user
+-add new truck company user
+-sub petrol stations user dashboard
+-sub truck company user dashboard
+-new print details
+-bug fixes
+
+----------New Patch v5.2----------
+-change of calcutions in all panels
+-add selling rate
+-add buying rate
+-bug fixes and code optimized
+
+
+----------New Patch v5.3----------
+-footer bug fix
+-subadmin updated
+-bug fixes
+-extra images deleted
+
+----------New Patch v5.4----------
+-petrol selling rate deleted from add petrol stations 
+-made new db for selling fuel rate
+-new method for adding selling rate to every truck station from update petrol station
+-bug fixes
+
+----------New Patch v5.5----------
+-capital deduction fix 
+-bug fixes
+
+----------New Patch v6.0----------
+-Added back button in some pages
+-fix insert and update fuel prices with fetching data
+-bug fixes
+
+----------New Patch v6.1----------
+-fix capital data update on approve of token on all dashboards
+-fix logo redirect
+-added subadmin names to dashboard
+-bug fixes
+
+----------New Patch v6.2----------
+-fix multiple user insertion wiht same data
+-fix popup time fade
+-fix and apply condition on generating token if fuel rate not set
+
+----------New Patch v6.3----------
+-added new option for old rate and new rate in superadmin
+-fix fuelrate in petrolstation dashboard
+-fix calculation on updating fuel rate
+-fix minor bugs
+
